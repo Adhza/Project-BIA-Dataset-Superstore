@@ -1,4 +1,5 @@
 # Project-BIA-Dataset-Superstore #
+Link Dashboard Looker Studio : https://lookerstudio.google.com/u/0/reporting/0adeb09d-060e-4c93-acf6-9d5e5b6501dd/page/eI5LD
 
 # Project Summary Statement #
 Superstore is a one-stop shopping destination to meet the complete, fast and affordable needs of Furniture, Decoration and Office Supplies in the United States. To support the company's business activities, a system is needed that can display the company's business performance. This system creation project can help companies to increase their value and performance by providing an informative system in the form of a dashboard that can be used by users to analyze, monitor and evaluate business performance.
